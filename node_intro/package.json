@@ -1,0 +1,25 @@
+{
+  "name": "node_intro",
+  "version": "0.1.0",
+  "description": "lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonicStarx/CS2410Practicals.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Lainey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SonicStarx/CS2410Practicals/issues"
+  },
+  "homepage": "https://github.com/SonicStarx/CS2410Practicals#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
